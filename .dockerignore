@@ -1,0 +1,6 @@
+.gitignore
+vendor/
+Makefile
+LICENSE
+README.md
+*.code-workspace
